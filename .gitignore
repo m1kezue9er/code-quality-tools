@@ -1,0 +1,8 @@
+# IDE
+/.idea/*
+/.vscode/*
+/.phan/*
+/.settings/*
+/.project
+/.buildpath
+/.settings
