@@ -1,5 +1,7 @@
 # Code Quality Tools
 
+Configuration for
+
 ## Prettier
 https://prettier.io/
 
